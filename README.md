@@ -22,12 +22,10 @@ The dataset used for training and testing the model consists of movie plots alon
 ### Genre frequency count
 
 ![](https://github.com/Aditya285-S/Movie-Genre-Classification/blob/main/Visualizations/Genre%20frequency%20count.png)
-*Figure 1: Frequency barplot of different genres.*
 
-### Word Cloud
+### Word Cloud of Drama genre
 
 ![](https://github.com/Aditya285-S/Movie-Genre-Classification/blob/main/Visualizations/Word%20cloud%20of%20Drama.png)
-*Figure 2: Wordcloud of Drama genre.*
 
 ### Confusion Matrix
 
@@ -41,3 +39,7 @@ To run the Movie Genre Classification application:
 1. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
+
+## Licence
+
+This project is licensed under the MIT License.
