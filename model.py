@@ -3,7 +3,7 @@ import re
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 
-model = joblib.load('Model\model.pkl')
+model = joblib.load('model.pkl')
 
 classifier = model['classifier']
 cv = model['count_vectorizer']
