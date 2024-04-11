@@ -34,8 +34,6 @@ The dataset used for training and testing the model consists of movie plots alon
 
 ## Usage
 
-To run the Movie Genre Classification application:
-
 1. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
